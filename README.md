@@ -12,3 +12,5 @@ This public GitHub repository is used for _policy discussion_ and _public file s
 Make a _pull request_ to an existing policy document or _submit an issue_.
 
 Cast your vote by +1 [YES] (:+1:) or -1 [NO] (:-1:) on an **Open for votes** issue.
+
+Voice your opinion by leaving comments on an **Open for discussion** issue.
