@@ -1,16 +1,9 @@
-# Excalibur - 2017-2018 Proposed Cabinet
+# Excalibur
+## 2017-2018 Proposed Cabinet
 
-## Use of GitHub
-**Caution: This repository is public. Everything posted here will be available for the general public.**
+While you are here, you may want to find us on [Facebook](fb.me/LKKCExcalibur) and our [website](lkkcexcalibur.github.io) too.
 
-**DO NOT STORE CONFIDENTIAL INFORMATION HERE! Move all confidential documents to [Google Drive](drive.google.com).**
+## Welcome to LKKCExcalibur/StudentUnion!
+Here you may find all of our publicized artifacts.
 
-This public GitHub repository is used for _policy discussion_ and _public file storage_.
-
-## Usage Guidelines
-### Suggesting a policy change
-Make a _pull request_ to an existing policy document or _submit an issue_.
-
-Cast your vote by +1 [YES] (:+1:) or -1 [NO] (:-1:) on an **Open for votes** issue.
-
-Voice your opinion by leaving comments on an **Open for discussion** issue.
+Feel free to propose a policy change by submitting a _pull request_ to an existing document, or using the [issue tracker](https://github.com/LKKCExcalibur/StudentUnion/issues).
