@@ -45,5 +45,5 @@ Indicate your attendance by inserting the following marks into the column corres
 | Cheung Ho Hin  |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
 | Lau Chun Ho    |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
-| Lai Hiu Ching  |*     |*     |*     |      |      |      |      |      |      |      |
+| Lai Hiu Ching  |      |      |      |30->  |*     |*     |*     |*     |*     |*     |
 | Tsang Lok Yiu  |      |      |      |      |      |      |      |*     |*     |*     |
