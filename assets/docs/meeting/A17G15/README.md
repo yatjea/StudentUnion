@@ -24,6 +24,7 @@ This meeting is organized with the following aim:
 # Event Remarks
 1. Please bring along any device with internet connecting abilities.
 2. Please bring along any items related to your pre-assigned work, such as graphics creation software and files.
+3. ** Contact Secretary 5 minutes before arrival. **
 
 # Pre-event Attendance Check
 Indicate your attendance by inserting the following marks into the column corresponding to you.
