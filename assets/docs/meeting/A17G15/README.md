@@ -3,7 +3,7 @@
 |:------:|:----------------------:|
 |Date    |2017 August 15 (Tuesday)|
 |Time    |10:00 ~ 19:00           |
-|Venue   |To be confirmed         |
+|Venue   |Stated in group - [Approximate location](https://goo.gl/sH4hS8)|
 |Occasion|General conference      |
 
 # Agenda
@@ -14,7 +14,7 @@ This meeting is organized with the following aim:
     1. Introduction to GitHub
     2. Introduction to IFTTT
     3. Account Authorization
-3. Complete #1 and #3
+3. Complete #1, #3 and #12
 4. Photo taking （To be confirmed)
 5. Complete "About" page
 6. Job allocation
@@ -23,6 +23,7 @@ This meeting is organized with the following aim:
 
 # Event Remarks
 1. Please bring along any device with internet connecting abilities.
+2. Please bring along any items related to your pre-assigned work, such as graphics creation software and files.
 
 # Pre-event Attendance Check
 Indicate your attendance by inserting the following marks into the column corresponding to you.
@@ -38,7 +39,7 @@ Indicate your attendance by inserting the following marks into the column corres
 ### Attendance Table
 | Name           |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  17  |  18  |  19  |
 |----------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| Wong Lok Him   |      |      |      |      |      |      |      |      |      |      |
+| Wong Lok Him   |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Chung On Ching |      |      |      |      |      |      |      |      |      |      |
 | Tong Hiu Tong  |      |      |      |*     |*     |*     |*     |*     |*     |*     |
 | Tse Hau Yat    |      |      |*     |*     |*     |*     |*     |*     |*     |*     |
