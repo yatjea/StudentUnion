@@ -45,7 +45,7 @@ Indicate your attendance by inserting the following marks into the column corres
 | Tong Hiu Tong  |      |      |      |*     |*     |*     |*     |*     |*     |*     |
 | Tse Hau Yat    |      |      |*     |*     |*     |*     |*     |*     |*     |*     |
 | Cheung Ho Hin  |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
-| Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
+| Kwan Chi Chung |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Lau Chun Ho    |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Lai Hiu Ching  |      |      |      |30->  |*     |*     |*     |*     |*     |*     |
 | Tsang Lok Yiu  |      |      |      |      |      |      |      |*     |*     |*     |
