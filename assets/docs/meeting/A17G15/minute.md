@@ -68,6 +68,9 @@
  1. Slogan - "In Change we trust"
   - Closes #3
  
+ 2. Omit Chinese Name
+  - Closes #1
+ 
  ### Next Meeting Date
  
  |   Date   |   Event   |
