@@ -44,4 +44,4 @@ Indicate your attendance by inserting the following marks into the column corres
 | Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
 | Lau Chun Ho    |      |      |      |      |      |      |      |      |      |      |
 | Lai Hiu Ching  |      |      |      |      |      |      |      |      |      |      |
-| Tsang Lok Yiu  |      |      |      |      |      |      |      |      |      |      |
+| Tsang Lok Yiu  |*     |*     |      |      |      |*     |      |      |      |     |
