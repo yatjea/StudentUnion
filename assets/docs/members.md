@@ -10,4 +10,4 @@ Secretary | Cheung Ho Hin | smallthinpig@gmail.com | @MinecraftSBC
 Inter-house | Kwan Chi Chung | kwanchichung518@gmail.com | 
 Recreation | Lau Chun Ho | jasonlau0908@gmail.com | @ThFlash
 Publicity | Lai Hiu Ching | hknicolelai@gmail.com | 
-Welfare | Tsang Lok Yiu | chloetsang01@gmail.com | 
+Welfare | Tsang Lok Yiu | chloetsang01@gmail.com | @Chloey19
