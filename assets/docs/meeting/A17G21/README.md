@@ -40,7 +40,7 @@ Indicate your attendance by inserting the following marks into the column corres
 | Chung On Ching |      |      |      |      |      |      |      |      |      |      |
 | Tong Hiu Tong  |      |      |      |      |      |      |      |      |      |      |
 | Tse Hau Yat    |      |      |      |      |      |      |      |      |      |      |
-| Cheung Ho Hin  |      |      |      |      |      |      |      |      |      |      |
+| Cheung Ho Hin  |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
 | Lau Chun Ho    |      |      |      |      |      |      |      |      |      |      |
 | Lai Hiu Ching  |      |      |      |      |      |      |      |      |      |      |
