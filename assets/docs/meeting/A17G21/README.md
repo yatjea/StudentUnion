@@ -39,9 +39,9 @@ Indicate your attendance by inserting the following marks into the column corres
 | Wong Lok Him   |      |      |      |      |      |      |      |      |      |      |
 | Chung On Ching |      |      |      |      |      |      |      |      |      |      |
 | Tong Hiu Tong  |*     |*     |*     |*     |      |      |      |      |      |      |
-| Tse Hau Yat    |      |      |      |      |      |      |      |      |      |      |
+| Tse Hau Yat    |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Cheung Ho Hin  |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
 | Lau Chun Ho    |      |      |      |      |      |      |      |      |      |      |
 | Lai Hiu Ching  |      |      |      |      |      |      |      |      |      |      |
-| Tsang Lok Yiu  |*     |*     |      |      |      |*     |      |      |      |     |
+| Tsang Lok Yiu  |*     |*     |      |      |      |*     |      |      |      |      |
